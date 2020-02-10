@@ -1,0 +1,8 @@
+# this will be ignored aka notes/comments
+title: Website title
+
+url: "https://library.brown.edu"
+
+# Build settings
+markdown:kramdown
+theme: minima
