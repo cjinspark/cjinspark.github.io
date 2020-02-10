@@ -4,4 +4,4 @@ layout: home
 
 # Home
 
-Data carpentry workshop
+Feb. 10th, 2020
