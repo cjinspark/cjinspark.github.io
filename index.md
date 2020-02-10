@@ -2,4 +2,6 @@
 layout: home
 ---
 
-# Data carpentry workshop - website practice
+# Home
+
+Data carpentry workshop
